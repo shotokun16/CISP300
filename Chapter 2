@@ -1,3 +1,5 @@
+I just posted some multiple choice questions from the book and wrote "answers" inside the parenthesis. 
+
 1. A _____ error does not prevent the program from running, but causes it to produce incorrect results. (LOGIC)
 2. A____ is a single function that the program must perform in order to satisfy the customer. (Software requirement end of page 28) 
 3. A(n)___ is a set of well-defined logical steps that must be taken to perform a task? (Algorithm) pg 29
@@ -26,4 +28,14 @@
 18. A(n)______ is a variable whose content has a value that is read only and cannot be changed during the program's execution.  (possibly a static variable) //Revisit
 19.  A debugging process in which  you imagine that you are the computer executing a program is called____.  (hand tracing) 
 20. Short notes placed in a different parts of a program, explaining how those parts of the program work, are called_____.  (comments) 
+
+True/False:
+
+Shot Answer:
+
+Algorithm WorkBench:
+
+Debugging Exercise: 
+
+Programming Exercises: 
 
