@@ -1,0 +1,29 @@
+1. A _____ error does not prevent the program from running, but causes it to produce incorrect results. (LOGIC)
+2. A____ is a single function that the program must perform in order to satisfy the customer. (Software requirement end of page 28) 
+3. A(n)___ is a set of well-defined logical steps that must be taken to perform a task? (Algorithm) pg 29
+4. An informal language that has no syntax rules, and is not meant to be compiled or executed is called____.(pesudeoCode) 
+5. A____ is a diagram that graphically depicts the steps that take place in a program. 
+(FLOWCHART)
+6. A(n)____ is a set of statements that execute in the order that they appear. (sequence structure) 
+7. A______ is a sequence of characters that is used as data. (STRING)
+8. A______ is a storage location in memory that is presented by a name. (variable) 
+//revisit
+9. A______ is any hypothetical person that is using a program and providing input for it.
+(End User or User)
+10.  A(n)_______ is a message that tells (or asks) the user to enter a specific value .
+(Prompt) 
+
+11.A(n)_____ sets a variable to a specified value. 
+(Variable declaration) //look it up.
+
+12. In the expression 12 + 7, the values on the right and left of the + symbol are called ______. (operands) 
+
+13. A(n)______ operator raises a number to a power. (Exponent) 
+14. A(n)______ operator performs division, but instead of returning the quotient it returns the remainder. (Modulus) 
+15. A(n)______specifies a variable';s name and data type. (variable declaration)
+16. Assigning a value to a variable in a declaration statement is called_____.(Initialization) 
+17.A(n)_______ variable is one that has been declared, but has not been initialized or assigned a value.(uninitialized variable) 
+18. A(n)______ is a variable whose content has a value that is read only and cannot be changed during the program's execution.  (possibly a static variable) //Revisit
+19.  A debugging process in which  you imagine that you are the computer executing a program is called____.  (hand tracing) 
+20. Short notes placed in a different parts of a program, explaining how those parts of the program work, are called_____.  (comments) 
+
