@@ -8,6 +8,8 @@ Computer Information Science-Programming 300 2014 Prof. Chapman
 ***Please try not to post any answers for the HW before the deadline, it will violate one of the policies from the Syllabus and it may or most likely lead to a serious offense (since this repo is public). If I do encounter any informaiton that may relate to copying i'll delete it.  The purpose of this is to get acquainted with GitHub and help eachother in a constructive way.***
 
 
-FYI: This is my first time organizing a GitHub repo, so please fill me in in how to improve my editing/publishing.  
+
+Note: This is my first time organizing a GitHub repo, so please feel free to give anu suggestions to improve or modify this repo.  
+
 All Rights Reserved By Pearson
 Book: Programming Logic and Design 3rd Edition 
