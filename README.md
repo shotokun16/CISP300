@@ -9,7 +9,7 @@ Computer Information Science-Programming 300 2014 Prof. Chapman
 
 
 
-Note: This is my first time organizing a GitHub repo, so please feel free to give anu suggestions to improve or modify this repo.  
+Note: This is my first time organizing a GitHub repo, so please feel free to give me any suggestions to improve or modify this repo.  
 
 All Rights Reserved By Pearson
 Book: Programming Logic and Design 3rd Edition 
