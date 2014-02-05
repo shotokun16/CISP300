@@ -24,6 +24,37 @@ Set convert = ((userTemp) * 9/5) + 32
 Display "The Temperature in Fahrenheit is: ", convert
 End */ 
 /////////////////////////////////////////////////////////////////////////////////
+#include <iostream> 
+#include  "conio.h"
+
+using namespace std; 
+/*My Pseudocode for CH2 HW
+
+Start 
+Declare integer userTemp
+Declare integer convert  
+
+Display "What is the temperature(C): "
+input userTemp 
+Set convert = ((userTemp) * 9/5) + 32
+Display "The Temperature in Fahrenheit is: ", convert
+End 
+*/
+
+int main()
+{
+	
+	double userTemp;
+	double convert;
+	cout << "What is the temperature: " ; 
+	cin >> userTemp;
+	convert = ((userTemp) * (9/5)) + 32; 
+	cout << "The Temperature in Fahrenheit is: " << convert << endl;
+	system("pause");
+
+	return 0; 
+
+}
 
 
 
