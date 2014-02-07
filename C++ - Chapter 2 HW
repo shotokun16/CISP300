@@ -46,7 +46,13 @@ int main()
 	cout << "The Temperature in Fahrenheit is: " << convert << endl;
 	system("pause");
 
-	return 0; 
+	return 0;
+	
+	/***** if you are using Linux-ubunto, mint, etc. and compiling with g++
+	****** omit code on line 33- #include "conio.h" and on line 47- system("pause");
+	******/	
+
+
 
 }
 
