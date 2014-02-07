@@ -1,27 +1,23 @@
-//Chapter 2 Hw Written in C++
-//Question 
-/*Celsius to Fahrenheit Temperature Converter Exercise #9 
+/**********
+Chapter 2 Hw Written in C++
+Question: 
+Celsius to Fahrenheit Temperature Converter Exercise #9 
 Design a program that converts Celsius temperatures to Fahrenheit temperature.
 The formula is as s follows:  F = 9/5C + 32
-/////////////////////////////////////////////////////////////////////////////////
-*/ 
-
-//My Pseudo Code for the Program"
-/* 
+***********/
+/********** 
+My Pseudo Code for the Program
 
 Create a Statement of Variables:
 I/O   Name      Type    Range     Description
 I     userTemp  Real    0-999.99  user inputs temp
 I/0   convert   Real    0-999.99  the formula F = 9/5C + 32 is implemented
 
-//The above statement of variables is what is used to break down the problem
-/////////////////////////////////////////////////////////////////////////////////
-#include <iostream> 
-#include  "conio.h"
+//The above statement is my own way in designated variables and inputs/outputs
+**************/
 
-using namespace std; 
-/*My Pseudocode for CH2 HW
-
+/*******
+My Pseudocode for CH2 HW
 Start 
 Declare integer userTemp
 Declare integer convert  
@@ -31,7 +27,13 @@ input userTemp
 Set convert = ((userTemp) * 9/5) + 32
 Display "The Temperature in Fahrenheit is: ", convert
 End 
-*/
+*******/
+
+#include <iostream> 
+#include  "conio.h"
+
+using namespace std; 
+
 
 int main()
 {
