@@ -1,7 +1,7 @@
 CISP300 
 =======
 
-Computer Information Science-Programming 300 2014 Prof. Chapman
+Computer Information Science-Programming 300 2014 
 
 ***This repository is primarily for students who are enrolled in Spring 2014 in CISP300 at CRC.  Everyone is welcome to post their questions, concerns, and problems. I can maybe write certain problems from Chapter 2-Chapter 12 that will benifit us all (getting preped before quizzes, midterm, and final). I believe the discussion board can get a little disorganized and its best categorizing ceratin topics instead throwing every question into the board.***
 
